@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> my first website</title>
+</head>
+<body style="background-color: #c4c7ff;">
+<p style="font-family: Arial;">   nice little website i made! </p>
+<p style="font-family: Arial;">   click the button VVVV </p>
+<button onclick="window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=42', '_blank')" style="background-color: #007bff; border-radius: 5px; padding: 1px 2px; margin-top: 30px; margin-left: 23px;">Click Me!</button>
+<p style="font-family: Arial;"> ( man i love this buttom) </p>
+
+<h1 translate="no">debdeb</h1>
+
+<img src="https://media.discordapp.net/attachments/731619343493890057/1565066548165615697/gozlerimmm.jpg?ex=6ae38d4e&is=6ae23bce&hm=92299b879064a40908f0db1d362d9d45b611efa8c96a8e5eab3590e890d46768&=&format=webp" style="margin-top: 10020px; margin-left: 1080px">
+</body>
+</html>
